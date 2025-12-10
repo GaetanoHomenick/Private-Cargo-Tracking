@@ -318,7 +318,7 @@ npx ts-node scripts/generate-docs.ts \
 
 ### **Project Links**
 - **Live Application**: [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
-- **GitHub Repository**: [https://github.com/GaetanoHomenick/PrivacyCargoTracking_FHE](https://github.com/GaetanoHomenick/PrivacyCargoTracking_FHE)
+- **GitHub Repository**: [https://github.com/GaetanoHomenick/Private-Cargo-Tracking](https://github.com/GaetanoHomenick/Private-Cargo-Tracking)
 - **Smart Contract**: [0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A](https://sepolia.etherscan.io/address/0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A)
 
 ### **Technology Resources**
@@ -435,7 +435,7 @@ npx ts-node scripts/generate-docs.ts \
 ### Community
 - **Zama Community**: [https://www.zama.ai/community](https://www.zama.ai/community)
 - **Discord**: [https://discord.com/invite/zama](https://discord.com/invite/zama)
-- **GitHub Issues**: [Report bugs](https://github.com/GaetanoHomenick/PrivacyCargoTracking_FHE/issues)
+- **GitHub Issues**: [Report bugs](https://github.com/GaetanoHomenick/Private-Cargo-Tracking/issues)
 
 ---
 
