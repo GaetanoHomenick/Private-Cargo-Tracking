@@ -1,0 +1,31 @@
+{
+  "name": "fhevm-example-template",
+  "version": "1.0.0",
+  "description": "Base template for FHEVM examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.ts --network sepolia",
+    "clean": "hardhat clean"
+  },
+  "keywords": [
+    "fhevm",
+    "ethereum",
+    "fully-homomorphic-encryption",
+    "privacy",
+    "smart-contracts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@fhevm/solidity": "latest",
+    "hardhat": "^2.19.0",
+    "@types/node": "^20.0.0",
+    "@types/mocha": "^10.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "ethers": "^6.9.0"
+  }
+}
