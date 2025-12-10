@@ -29,7 +29,9 @@ This project showcases:
 - **Base Template System**: Standardized Hardhat project template for consistency
 
 ### 🔗 **Live Application**
-**Demo:** [https://privacy-cargo-tracking-fhe.vercel.app/](https://privacy-cargo-tracking-fhe.vercel.app/)
+**Demo:** [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
+
+**Video:** []()
 
 ## 🎯 Key Innovation
 
@@ -315,7 +317,7 @@ npx ts-node scripts/generate-docs.ts \
 ## 🔗 Links and Resources
 
 ### **Project Links**
-- **Live Application**: [https://privacy-cargo-tracking-fhe.vercel.app/](https://privacy-cargo-tracking-fhe.vercel.app/)
+- **Live Application**: [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
 - **GitHub Repository**: [https://github.com/GaetanoHomenick/PrivacyCargoTracking_FHE](https://github.com/GaetanoHomenick/PrivacyCargoTracking_FHE)
 - **Smart Contract**: [0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A](https://sepolia.etherscan.io/address/0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A)
 
@@ -328,7 +330,7 @@ npx ts-node scripts/generate-docs.ts \
 ## 🚀 Getting Started
 
 ### **Quick Start**
-1. **Visit Application**: Go to [https://privacy-cargo-tracking-fhe.vercel.app/](https://privacy-cargo-tracking-fhe.vercel.app/)
+1. **Visit Application**: Go to [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
 2. **Install MetaMask**: Download and set up MetaMask wallet
 3. **Connect to Sepolia**: Add Sepolia testnet to your wallet
 4. **Get Test ETH**: Obtain testnet tokens from faucet
@@ -343,7 +345,7 @@ npx ts-node scripts/generate-docs.ts \
 ## 🚀 Quick Start
 
 ### For Users
-1. Visit [Live Application](https://privacy-cargo-tracking-fhe.vercel.app/)
+1. Visit [Live Application](https://private-cargo-tracking.vercel.app/)
 2. Connect MetaMask wallet to Sepolia testnet
 3. Request test ETH from [Sepolia Faucet](https://sepoliafaucet.com/)
 4. Create your first encrypted cargo shipment
@@ -417,7 +419,7 @@ npx ts-node scripts/generate-docs.ts \
 ### Deployment
 - **Contract Address**: `0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A`
 - **Etherscan**: [View on Sepolia Explorer](https://sepolia.etherscan.io/address/0x1846d67Dcf544B374D59F6d9a9adE4e37719D57A)
-- **Live Demo**: [https://privacy-cargo-tracking-fhe.vercel.app/](https://privacy-cargo-tracking-fhe.vercel.app/)
+- **Live Demo**: [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
 
 ### Documentation
 - **Navigation Hub**: [INDEX.md](INDEX.md)
