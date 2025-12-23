@@ -31,7 +31,7 @@ This project showcases:
 ### 🔗 **Live Application**
 **Demo:** [https://private-cargo-tracking.vercel.app/](https://private-cargo-tracking.vercel.app/)
 
-**Video:** [Private Cargo Tracking.mp4](https://streamable.com/lwwnoc)
+**Video:** [Private Cargo Tracking.mp4](https://youtu.be/_c5DcFPlZbA)
 
 ## 🎯 Key Innovation
 
